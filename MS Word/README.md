@@ -3,6 +3,6 @@
 ### header H3
 
 ## Table of Contents 
-* [Google] (#GOOGLE)
-* [Chayaveeoon] (#WIN)
-* [Setup] (#set-Up) 
+* [Google](#GOOGLE)
+* [Chayaveeoon](#WIN)
+* [Setup](#set-Up) 
